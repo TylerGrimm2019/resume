@@ -1,6 +1,7 @@
 # Site settings
-title: "Tyler Resume Template"
-description: "A resume template for Tyler and GitHub Pages sites."
+
+title: "Tyler Grimm Resume Template"
+description: "A resume template for Tyler Grimm and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
